@@ -57,7 +57,7 @@ const Modal = () => {
             <button type="submit" className="button">
               <span>Start chatting</span>
             </button>
-            <p>Username : Leo, Hugh Password: 123123,123123</p>
+            <p>Username: Leo, Hugh Password: 123123,123123</p>
           </div>
         </form>
         <h1>{error}</h1>
